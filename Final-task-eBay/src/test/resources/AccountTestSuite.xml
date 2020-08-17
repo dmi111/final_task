@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name = "Account Test Suite">
+    <test name = "Account tests">
+        <classes>
+            <class name = "com.epam.ebayproject.tests.AccountTests" />
+        </classes>
+    </test>
+</suite>

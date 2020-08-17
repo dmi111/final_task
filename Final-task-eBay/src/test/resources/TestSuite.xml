@@ -1,0 +1,10 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="Ebay Test Suite">
+    <suite-files>
+        <suite-file path="AccountTestSuite.xml"/>
+        <suite-file path="CartTestSuite.xml"/>
+        <suite-file path="NavigationTestSuite.xml"/>
+    </suite-files>
+</suite>
